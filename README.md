@@ -1,4 +1,5 @@
- Parkinson’s disease is classified as a chronic and progressive neurological ailment that impacts an individual’s motor functions and balance. Additionally, it is known to have a discernible impact on the vocal abilities of those afflicted. Parkinson’s disease is initiated by a decrease in the number of dopamine neurons present in the brain.
+# Final-PD-AE-Model
+Parkinson’s disease is classified as a chronic and progressive neurological ailment that impacts an individual’s motor functions and balance. Additionally, it is known to have a discernible impact on the vocal abilities of those afflicted. Parkinson’s disease is initiated by a decrease in the number of dopamine neurons present in the brain.
  
  This project is a part of my final thesis in Master Degree.
 
@@ -7,9 +8,4 @@
  Third: Do MLP algorithm.
  Finally: Apply Deep Auto-Encoder as a features extraction, & MLP algorithm as a classifier.
 
- 
- # Pytorch 
- # sikit_learn 
- # Speech_Analysis 
- # MDVR_KCL
- # Final-PD-AE-Model
+
