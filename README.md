@@ -4,8 +4,12 @@ Parkinson’s disease is classified as a chronic and progressive neurological ai
  This project is a part of my final thesis in Master Degree.
 
  First: I had to do EDA for all voice recordings, then I trasfer it from audio form into numeric form with Parselmouth Library in python.
+
+ 
  Second: Do the tradtional ML algorithms.
+ 
  Third: Do MLP algorithm.
+ 
  Finally: Apply Deep Auto-Encoder as a features extraction, & MLP algorithm as a classifier.
 
 
